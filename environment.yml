@@ -12,3 +12,4 @@ dependencies:
   - geopandas
   - ipyleaflet
   - ipykernel
+  - descartes
