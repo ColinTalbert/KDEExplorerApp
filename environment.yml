@@ -9,7 +9,12 @@ dependencies:
   - matplotlib
   - shapely
   - pandas
+  - descartes
   - geopandas
   - ipyleaflet
   - ipykernel
-  - descartes
+  - jupyter
+  - yaml
+  - pip
+  - pip:
+    - descartes
