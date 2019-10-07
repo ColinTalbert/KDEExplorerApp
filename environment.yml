@@ -14,3 +14,5 @@ dependencies:
   - ipyleaflet
   - ipykernel
   - descartes
+  - seaborn
+  - folium
